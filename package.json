@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-reademail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gmahota/nodejs-reademail.git",
+  "author": "Guimarães Mahota <guimaraesmahota@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.3.3"
+  }
+}
